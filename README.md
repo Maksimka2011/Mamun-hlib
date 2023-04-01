@@ -1,5 +1,5 @@
 <html>
-<title> Кафе Мамин хліб</title>
+ Кафе Мамин хліб
 <body style="background-color:orange">
     
 <header style="background-color:lightgrey; text-align:left; font-size:23px">
